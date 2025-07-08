@@ -1,16 +1,4 @@
-#Project Structure
 
-QuantumBookstore/
-├── books/
-│   ├── Book.java
-│   ├── PaperBook.java
-│   ├── EBook.java
-│   └── ShowcaseBook.java
-├── services/
-│   ├── ShippingService.java
-│   └── MailService.java
-├── QuantumBookstore.java
-└── QuantumBookstoreFullTest.java
 #Purchasing Logic
 - Lookup by `ISBN`
 - Validate quantity (for PaperBook)
