@@ -1,5 +1,6 @@
 
-#Purchasing Logic
+##Purchasing Logic
+
 - Lookup by `ISBN`
 - Validate quantity (for PaperBook)
 - Send to:
@@ -11,7 +12,8 @@
   - Book doesn’t exist
   - Not purchasable (e.g., ShowcaseBook)
   - Not enough stock
-#Features
+  
+##Features
 
 -  Add books to inventory (ISBN, title, author, year, price)
 -  Buy books via ISBN, with address/email (depending on type)
